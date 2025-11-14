@@ -15,6 +15,7 @@
 div img {
 	width : 800px;
 	height : 400px;
+	object-fit : cover;
 }
 
 .container-2 {
